@@ -3,10 +3,8 @@ package com.example.a10minworkoutapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.FrameLayout
 import android.widget.Toast
 import com.example.a10minworkoutapp.databinding.ActivityMainBinding
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -19,7 +17,17 @@ class MainActivity : AppCompatActivity() {
 
         bindings?.flstart?.setOnClickListener{
             Toast.makeText(applicationContext, "Here We Go Again", Toast.LENGTH_SHORT).show()
-            val intent = Intent(applicationContext, ExcerciseActivity::class.java)
+            val intent = Intent(this, ExcerciseActivity::class.java)
+            startActivity(intent)
+        }
+
+        bindings?.flbmi?.setOnClickListener{
+            val intent = Intent(this, ActivityBMI::class.java)
+            startActivity(intent)
+        }
+
+        bindings?.flhistory?.setOnClickListener {
+            val intent = Intent(this, HistoryActivity::class.java)
             startActivity(intent)
         }
 

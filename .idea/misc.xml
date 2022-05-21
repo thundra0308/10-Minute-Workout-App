@@ -6,12 +6,24 @@
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable-v24/circular_progress_bar_gray.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable-v24/item_circular_color_accent_border_2.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/drawable_unit_tab_selector.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/drawable_unit_text_color_selector.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.1" />
         <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.1" />
-        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_excercise.xml" value="0.264" />
-        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/item_completed_background.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/item_selected_background.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/drawable/recycler_view_background.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_bmi.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_excercise.xml" value="0.2" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_finish.xml" value="0.2" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_history.xml" value="0.1693840579710145" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/dialog_custom_back.xml" value="0.1" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/history_item_rows.xml" value="0.2" />
+        <entry key="..\:/My Android Apps/10MinWorkoutApp/app/src/main/res/layout/item_exercise_status.xml" value="0.264" />
       </map>
     </option>
   </component>
